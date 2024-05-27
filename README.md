@@ -2,7 +2,7 @@
 
 1. **Kloning Repositori:**
     ```
-    git clone https://github.com/rahulpoonia29/To-Do-List-React
+    git clone https://github.com/Fahreza52/list.git
     ```
 2. **Navigasi ke Direktori Proyek:**
     ```
